@@ -1,0 +1,69 @@
+# Sample sentences for speech fine-tuning data generation
+# Medical terminology - Head and Neck Oncology
+
+# Dysgeusia
+The patient reports dysgeusia that began two weeks after starting radiation therapy.
+Dysgeusia is a common side effect of head and neck radiation treatment.
+Management of dysgeusia includes zinc supplementation and proper oral hygiene.
+Severe dysgeusia can lead to decreased appetite and weight loss.
+
+# Radiation
+Radiation therapy will target the primary tumor and regional lymph nodes.
+The total radiation dose will be sixty-six gray in thirty-three fractions.
+Intensity modulated radiation therapy helps spare normal tissue.
+Radiation-induced mucositis typically peaks during the fourth week of treatment.
+Daily radiation treatments are scheduled Monday through Friday.
+
+# Adenoid cystic carcinoma
+Adenoid cystic carcinoma has a tendency for perineural invasion.
+The pathology confirmed adenoid cystic carcinoma of the salivary gland.
+Adenoid cystic carcinoma often requires postoperative radiation therapy.
+This tumor is consistent with adenoid cystic carcinoma on frozen section.
+
+# Tonsil
+The primary tumor is located in the right palatine tonsil.
+Tonsil cancer is commonly associated with HPV infection.
+The tonsil mass measures three centimeters in greatest dimension.
+Bilateral tonsil asymmetry was noted on physical examination.
+
+# Lacrimal gland
+The tumor involves the lacrimal gland with orbital extension.
+Adenoid cystic carcinoma of the lacrimal gland requires aggressive treatment.
+The lacrimal gland will be included in the radiation field.
+MRI demonstrates enhancement of the left lacrimal gland.
+
+# Base of tongue
+The tumor originates at the base of tongue on the right side.
+Base of tongue cancers often present at advanced stages.
+The base of tongue receives sixty-six gray in the treatment plan.
+Dysphagia is common with base of tongue tumors.
+
+# Floor of mouth
+The lesion is located in the anterior floor of mouth.
+Floor of mouth cancer may invade the mandible.
+The floor of mouth appears normal on clinical examination.
+Surgical resection included the floor of mouth and sublingual gland.
+
+# HPV
+HPV-positive oropharyngeal cancer has a better prognosis.
+HPV testing was performed on the tumor specimen.
+The patient has HPV-associated squamous cell carcinoma.
+HPV status is an important prognostic factor.
+
+# MSKCC
+The patient is being treated at MSKCC in New York.
+MSKCC guidelines recommend concurrent chemoradiation for this stage.
+The case was discussed at the MSKCC tumor board.
+MSKCC has extensive experience with this rare malignancy.
+
+# Combined phrases
+The HPV-positive tonsil cancer will be treated with radiation therapy.
+Dysgeusia improved six months after completing radiation to the base of tongue.
+MSKCC protocols for adenoid cystic carcinoma include postoperative radiation.
+The floor of mouth and base of tongue were included in the high-dose volume.
+Lacrimal gland tumors often require radiation doses similar to those for tonsil cancer.
+HPV testing is routinely performed for all tonsil and base of tongue cancers.
+The patient developed dysgeusia during radiation for floor of mouth cancer.
+Adenoid cystic carcinoma of the lacrimal gland has a high rate of local recurrence.
+MSKCC recommends close surveillance for HPV-negative base of tongue tumors.
+Radiation-induced dysgeusia typically resolves within one year after treatment.
