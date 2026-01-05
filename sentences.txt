@@ -67,3 +67,48 @@ The patient developed dysgeusia during radiation for floor of mouth cancer.
 Adenoid cystic carcinoma of the lacrimal gland has a high rate of local recurrence.
 MSKCC recommends close surveillance for HPV-negative base of tongue tumors.
 Radiation-induced dysgeusia typically resolves within one year after treatment.
+
+# EGFR inhibitors
+Osimertinib is a third-generation EGFR tyrosine kinase inhibitor.
+The patient will start osimertinib at eighty milligrams daily.
+Tagrisso is the brand name for osimertinib.
+Osimertinib has activity against the T790M resistance mutation.
+The patient tolerates osimertinib with minimal side effects.
+
+# Antibody-drug conjugates
+Dato-DXD is an investigational antibody-drug conjugate.
+The ADC was administered at the recommended phase two dose.
+Antibody-drug conjugate therapy combines targeted delivery with cytotoxic payload.
+ADC development has revolutionized targeted cancer therapy.
+The patient is enrolled in a dato-DXD clinical trial.
+
+# Immunotherapy
+Pembrolizumab is a PD-1 checkpoint inhibitor.
+The patient receives pembrolizumab every three weeks.
+Keytruda is the brand name for pembrolizumab.
+Nivolumab was approved for use in combination with chemotherapy.
+IO therapy has improved outcomes in many cancer types.
+Immunotherapy is considered for patients with high PD-L1 expression.
+The patient had an excellent response to pembrolizumab.
+Nivolumab and pembrolizumab are both anti-PD-1 antibodies.
+
+# Chemotherapy agents
+Cisplatin is the most common chemotherapy used with radiation.
+The patient will receive weekly cisplatin during radiation therapy.
+Paclitaxel is administered every three weeks.
+Carboplatin is often substituted when cisplatin is contraindicated.
+The regimen consists of carbo and paclitaxel.
+Carbo-taxol is well-tolerated in elderly patients.
+Weekly carboplatin may be used instead of cisplatin for concurrent therapy.
+
+# Combined treatment regimens
+The patient received pembrolizumab after completing cisplatin and radiation.
+Osimertinib is continued as maintenance therapy after chemoradiation.
+Immunotherapy with nivolumab was started six weeks after radiation.
+The treatment plan includes carbo-taxol followed by pembrolizumab.
+Keytruda is being evaluated in combination with radiation therapy.
+Dato-DXD shows promise in ADC-resistant disease.
+IO checkpoint blockade has become standard of care for many indications.
+The patient progressed on osimertinib and will switch to antibody-drug conjugate therapy.
+Tagrisso was well-tolerated throughout the radiation therapy course.
+Carboplatin-based chemoradiation is followed by maintenance immunotherapy.
